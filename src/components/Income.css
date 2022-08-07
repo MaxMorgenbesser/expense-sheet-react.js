@@ -1,0 +1,12 @@
+#IncomeForm {
+    width:50%;
+    background-color: black;
+    color: salmon;
+    position: relative;
+}
+
+#CarExpenseForm{
+    background-color: orange;
+    width: 50%;
+    position: relative; left: 50%;
+}
